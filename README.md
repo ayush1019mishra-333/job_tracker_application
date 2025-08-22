@@ -89,15 +89,13 @@ src/
 └── assets/
 ```
 
-## 🌐 Live Demo
-[Click here to try the Job Tracker Application!](#)
 
 ## 🤝 Contribution
 Feel free to fork this repository, raise issues, or submit pull requests to improve the application. All contributions are welcome!
 
 ## 📧 Support
-If you encounter any issues or have suggestions, please contact me at [abhijitzende75@gmail.com].
+If you encounter any issues or have suggestions, please contact me at [ayush1019mishra@gmail.com].
 
 
 ---
-**Built with ❤️ by [Abhijit Zende]**
+**Built with ❤️ by [Ayush Mishra]**
